@@ -1,0 +1,6 @@
+com\test\MainController.class
+com\test\User.class
+com\test\ServletInitializer.class
+com\test\UserRepository.class
+com\test\MainService.class
+com\test\TestApplication.class
